@@ -8,3 +8,5 @@ Things covered and derived:
 - Binary Cross-Entropy
 - Sigmoid Activation
 - Gradients of the Weights and Biases
+
+final BCE loss for a validation dataset of 200 samples: 0.0076
